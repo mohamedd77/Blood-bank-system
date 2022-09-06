@@ -1,0 +1,11 @@
+﻿  Donar.cpp
+  recip.cpp
+  Source.cpp
+C:\Users\mando\Downloads\Project14\Project14\Source.cpp(85,10): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\mando\Downloads\Project14\Project14\Source.cpp(86,10): warning C4129: 's': unrecognized character escape sequence
+C:\Users\mando\Downloads\Project14\Project14\Source.cpp(87,10): warning C4129: 's': unrecognized character escape sequence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 638 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project14.vcxproj -> C:\Users\mando\Downloads\Project14\Release\Project14.exe
